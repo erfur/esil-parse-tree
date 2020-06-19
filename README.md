@@ -4,6 +4,7 @@ A little unfinished project I did in my free time to try and utilize ESIL someho
 
 # TODO
 
+- [ ] Documentation
 - [ ] Implement ESIL semantics
 - [ ] Integrate Z3 and simple simplifications
 - [ ] Implement tree visualization
